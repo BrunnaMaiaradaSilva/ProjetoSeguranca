@@ -100,7 +100,7 @@ Execute `dotnet test ./ItaLog/ItaLog.sln` para iniciar os testes unitários via 
 		</a>
 	  </th>
 	<th> <a href="https://github.com/Evanderjh">
-		<img src="https://avatars2.githubusercontent.com/u/70240099?s=460&u=2fae1850645be7d2119434da5208a92bd7d45d6f&v=4" width="100" alt="Evander">
+		<img src="https://avatars2.githubusercontent.com/u/70240099?s=460&u=2fae1850645be7d2119434da5208a92bd7d45d6f&v=4" width="100" alt="Evander Pereira">
 		</a>
 	  </th>
     	<th> <a href=></a> </th>
@@ -110,7 +110,7 @@ Execute `dotnet test ./ItaLog/ItaLog.sln` para iniciar os testes unitários via 
     <td><h4> Ester </h4></td>
     <td><h4> Danusa </h4></td>
 	<td><h4> Brunna Silva </h4></td>
-	<td><h4> Evander </h4></td>
+	<td><h4> Evander Pereira </h4></td>
     <td><h4> Felipe Dantas </h4></td>
     <td><h4> Kleberson </h4></td>
   </tr>  
