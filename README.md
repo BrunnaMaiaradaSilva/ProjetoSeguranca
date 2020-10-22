@@ -95,9 +95,14 @@ Execute `dotnet test ./ItaLog/ItaLog.sln` para iniciar os testes unitários via 
   <tr>
     	<th> <a href=></a> </th>
    	<th> <a href=></a> </th>
-	<th> <a href="https://github.com/BrunnaMaiaradaSilva" target="_blank"> <img src="https://avatars2.githubusercontent.com/u/45864414?s=460&u=31689f0d56c03fda7bf6052e37158c35bccc7cea&v=4" width="100"
-	alt="Brunna Silva"></a> </th>
-	<th> <a href=></a> </th>
+	<th> <a href="https://github.com/BrunnaMaiaradaSilva" target="_blank">
+	<img src="https://avatars2.githubusercontent.com/u/45864414?s=460&u=31689f0d56c03fda7bf6052e37158c35bccc7cea&v=4" width="100" alt="Brunna Silva">
+		</a>
+	  </th>
+	<th> <a href="https://github.com/Evanderjh">
+		<img src="https://avatars2.githubusercontent.com/u/70240099?s=460&u=2fae1850645be7d2119434da5208a92bd7d45d6f&v=4" width="100" alt="Evander">
+		</a>
+	  </th>
     	<th> <a href=></a> </th>
 	<th> <a href=></a> </th>
   </tr>
