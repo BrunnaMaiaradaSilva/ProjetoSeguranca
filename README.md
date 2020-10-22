@@ -93,16 +93,13 @@ Execute `dotnet test ./ItaLog/ItaLog.sln` para iniciar os testes unitários via 
 
 <table>
   <tr>
-    <th> <a href="https://github.com/afonsohsc" target="_blank"><img src="https://avatars2.githubusercontent.com/u/22382744?s=400&u=0a86e59ab9f329fb01d914000cca899938edbe04&v=4" width="100"
-	alt="Afonso Carvalho"></a> </th>
-    <th> <a href="https://github.com/andre1gauna" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/56696236?s=400&u=3f5bc4f9e290841f5f24679e8daafa3386e31af7&v=4" width="100"
-	alt="André Gaúna"></a> </th>
+    	<th> <a href=></a> </th>
+   	<th> <a href=></a> </th>
 	<th> <a href="https://github.com/BrunnaMaiaradaSilva" target="_blank"> <img src="https://avatars2.githubusercontent.com/u/45864414?s=460&u=31689f0d56c03fda7bf6052e37158c35bccc7cea&v=4" width="100"
 	alt="Brunna Silva"></a> </th>
-	<th> <a href="https://github.com/brunoritter123" target="_blank"> <img src="https://avatars2.githubusercontent.com/u/29574914?s=400&u=a92cbc58843885b8233132ee0373241c1a37312d&v=4" width="100"
-	alt="Bruno Ritter"></a> </th>
-    <th> <a href="https://github.com/Cadulox" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/47247399?s=400&u=7cd0dfdda5675f65a36e1dc75aa8b4ea3343ed98&v=4" width="100"
-	alt="Carlos Eduardo"></a> </th>
+	<th> <a href=></a> </th>
+    	<th> <a href=></a> </th>
+	<th> <a href=></a> </th>
   </tr>
   <tr>
     <td><h4> Ester </h4></td>
